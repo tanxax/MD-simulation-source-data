@@ -1,0 +1,89 @@
+HEADER    UNCLASSIFIED                            06-Feb-23
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNK                                
+AUTHOR    AUTOMATED TOPOLOGY BUILDER (ATB) REVISION 2022-10-31 14:18:01
+AUTHOR   2  https://atb.uq.edu.au
+HETATM    1  H36 GCB8    0      -6.994  -3.496   2.206  1.00  0.00           H
+HETATM    2  N21 GCB8    0      -7.233  -3.562   1.226  1.00  0.00           N
+HETATM    3  H35 GCB8    0      -7.712  -4.397   0.916  1.00  0.00           H
+HETATM    4  C30 GCB8    0      -6.529  -2.853   0.315  1.00  0.00           C
+HETATM    5  N20 GCB8    0      -6.691  -3.138  -0.996  1.00  0.00           N
+HETATM    6  C31 GCB8    0      -6.017  -2.405  -1.897  1.00  0.00           C
+HETATM    7  H44 GCB8    0      -6.182  -2.683  -2.937  1.00  0.00           H
+HETATM    8  N19 GCB8    0      -5.175  -1.387  -1.692  1.00  0.00           N
+HETATM    9  C27 GCB8    0      -5.033  -1.128  -0.383  1.00  0.00           C
+HETATM   10  N17 GCB8    0      -4.258  -0.154   0.216  1.00  0.00           N
+HETATM   11  C28 GCB8    0      -4.448  -0.300   1.578  1.00  0.00           C
+HETATM   12  H43 GCB8    0      -3.932   0.334   2.286  1.00  0.00           H
+HETATM   13  N18 GCB8    0      -5.274  -1.271   1.896  1.00  0.00           N
+HETATM   14  C29 GCB8    0      -5.656  -1.801   0.673  1.00  0.00           C
+HETATM   15  C24 GCB8    0      -3.442   0.836  -0.454  1.00  0.00           C
+HETATM   16  H39 GCB8    0      -3.472   0.594  -1.525  1.00  0.00           H
+HETATM   17   O4 GCB8    0      -2.125   0.765   0.073  1.00  0.00           O
+HETATM   18  C25 GCB8    0      -1.460   1.981  -0.312  1.00  0.00           C
+HETATM   19  H40 GCB8    0      -1.119   1.899  -1.354  1.00  0.00           H
+HETATM   20  C23 GCB8    0      -2.536   3.086  -0.245  1.00  0.00           C
+HETATM   21  H38 GCB8    0      -2.437   3.686   0.664  1.00  0.00           H
+HETATM   22   O6 GCB8    0      -2.429   3.915  -1.401  1.00  0.00           O
+HETATM   23  H33 GCB8    0      -2.657   4.825  -1.150  1.00  0.00           H
+HETATM   24  C22 GCB8    0      -3.891   2.305  -0.243  1.00  0.00           C
+HETATM   25  H37 GCB8    0      -4.387   2.396   0.729  1.00  0.00           H
+HETATM   26   O5 GCB8    0      -4.780   2.762  -1.235  1.00  0.00           O
+HETATM   27  H32 GCB8    0      -4.219   3.261  -1.863  1.00  0.00           H
+HETATM   28  C26 GCB8    0      -0.277   2.245   0.596  1.00  0.00           C
+HETATM   29   O7 GCB8    0       0.763   1.303   0.353  1.00  0.00           O
+HETATM   30   P1 GCB8    0       2.268   1.791   0.907  1.00  0.00           P
+HETATM   31   O9 GCB8    0       2.259   1.784   2.416  1.00  0.00           O
+HETATM   32  O10 GCB8    0       2.655   3.045   0.170  1.00  0.00           O
+HETATM   33   O8 GCB8    0       3.073   0.457   0.395  1.00  0.00           O
+HETATM   34   P2 GCB8    0       4.381   0.299  -0.639  1.00  0.00           P
+HETATM   35  O12 GCB8    0       5.475   1.252  -0.242  1.00  0.00           O
+HETATM   36  O13 GCB8    0       3.875   0.249  -2.055  1.00  0.00           O
+HETATM   37  O11 GCB8    0       4.701  -1.250  -0.133  1.00  0.00           O
+HETATM   38   P3 GCB8    0       6.189  -1.981  -0.000  1.00  0.00           P
+HETATM   39  O14 GCB8    0       6.687  -1.867   1.414  1.00  0.00           O
+HETATM   40  O16 GCB8    0       7.052  -1.605  -1.176  1.00  0.00           O
+HETATM   41  O15 GCB8    0       5.674  -3.550  -0.170  1.00  0.00           O
+HETATM   42  H34 GCB8    0       5.473  -3.720  -1.106  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5   14
+CONECT    5    4    6
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6    9
+CONECT    9    8   10   14
+CONECT   10    9   11   15
+CONECT   11   10   12   13
+CONECT   12   11
+CONECT   13   11   14
+CONECT   14    4    9   13
+CONECT   15   10   16   17   24
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17   19   20   28
+CONECT   19   18
+CONECT   20   18   21   22   24
+CONECT   21   20
+CONECT   22   20   23
+CONECT   23   22
+CONECT   24   15   20   25   26
+CONECT   25   24
+CONECT   26   24   27
+CONECT   27   26
+CONECT   28   18   29
+CONECT   29   28   30
+CONECT   30   29   31   32   33
+CONECT   31   30
+CONECT   32   30
+CONECT   33   30   34
+CONECT   34   33   35   36   37
+CONECT   35   34
+CONECT   36   34
+CONECT   37   34   38
+CONECT   38   37   39   40   41
+CONECT   39   38
+CONECT   40   38
+CONECT   41   38   42
+CONECT   42   41
+END
